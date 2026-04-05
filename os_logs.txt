@@ -1,8 +1,0 @@
-[14:59:18] Task: OS Assignment 1 | Status: CREATED
-[14:59:20] Task: OS Assignment 1 | Status: COMPLETED
-[14:59:23] Task: OS Assignment 1 | Status: DELETED
-[14:59:52] Task: os exp1 | Status: CREATED
-[14:59:58] Task: os exp2 | Status: CREATED
-[15:00:00] Task: os exp1 | Status: COMPLETED
-[15:00:02] Task: os exp1 | Status: DELETED
-[15:00:03] Task: os exp2 | Status: DELETED

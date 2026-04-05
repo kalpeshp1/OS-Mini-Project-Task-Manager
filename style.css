@@ -1,4 +1,0 @@
-body { font-family: sans-serif; background-color: #f4f4f4; display: flex; justify-content: center; padding: 50px; }
-.container { background: white; padding: 30px; border-radius: 10px; shadow: 0 4px 8px rgba(0,0,0,0.1); width: 400px; }
-button { background: #d9534f; color: white; border: none; padding: 10px 20px; cursor: pointer; border-radius: 5px; }
-input, select, textarea { width: 100%; padding: 8px; margin-top: 5px; }
